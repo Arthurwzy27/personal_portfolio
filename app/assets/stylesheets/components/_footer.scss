@@ -2,7 +2,6 @@
   width: 100%;
   height: 170px;
   background-color: yellow;
-  display: flex;
   img {
     height: 70px;
   }
@@ -11,4 +10,8 @@
 .footer-navbar {
   // display: flex;
 
+}
+
+.footer-list {
+  list-style-type: none;
 }
